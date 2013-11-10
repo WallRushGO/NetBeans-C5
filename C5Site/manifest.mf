@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: org.sebastiandemel.c5site
+OpenIDE-Module-Localizing-Bundle: org/sebastiandemel/c5site/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

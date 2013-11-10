@@ -1,0 +1,138 @@
+<record>
+  <date>2013-09-22T16:58:39</date>
+  <millis>1379869119629</millis>
+  <sequence>86</sequence>
+  <level>FINEST</level>
+  <thread>14</thread>
+  <message>CPU INFO</message>
+  <param>8</param>
+</record>
+<record>
+  <date>2013-09-22T16:58:39</date>
+  <millis>1379869119686</millis>
+  <sequence>87</sequence>
+  <level>FINEST</level>
+  <thread>14</thread>
+  <message>SCREEN SIZE</message>
+  <param>1440</param>
+  <param>900</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2013-09-22T16:58:39</date>
+  <millis>1379869119687</millis>
+  <sequence>88</sequence>
+  <level>CONFIG</level>
+  <thread>14</thread>
+  <message>IDE_STARTUP</message>
+</record>
+<record>
+  <date>2013-09-22T16:58:48</date>
+  <millis>1379869128188</millis>
+  <sequence>92</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>21</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Toolbar$DefaultIconButton[]</param>
+  <param>org.openide.awt.Toolbar$DefaultIconButton</param>
+  <param>org.netbeans.modules.project.ui.actions.OpenProject[Open Proj&amp;ect...]</param>
+  <param>org.netbeans.modules.project.ui.actions.OpenProject</param>
+  <param>Open Proj&amp;ect...</param>
+</record>
+<record>
+  <date>2013-09-22T16:58:49</date>
+  <millis>1379869129741</millis>
+  <sequence>97</sequence>
+  <level>INFO</level>
+  <thread>13</thread>
+  <message>MEMORY</message>
+  <key>MEMORY</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>4201361408</param>
+</record>
+<record>
+  <date>2013-09-22T16:59:10</date>
+  <millis>1379869150257</millis>
+  <sequence>99</sequence>
+  <logger>org.netbeans.ui.projects</logger>
+  <level>CONFIG</level>
+  <thread>13</thread>
+  <message>UI_OPEN_PROJECTS</message>
+  <key>UI_OPEN_PROJECTS</key>
+  <catalog>org.netbeans.modules.project.ui.Bundle</catalog>
+  <param>org.sebastiandemel.c5site.projects.SiteProject</param>
+  <param>SiteProject</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2013-09-22T16:59:10</date>
+  <millis>1379869150258</millis>
+  <sequence>100</sequence>
+  <logger>org.netbeans.ui.metrics.projects</logger>
+  <level>INFO</level>
+  <thread>13</thread>
+  <message>USG_PROJECT_OPEN</message>
+  <param>org.sebastiandemel.c5site.projects.SiteProject</param>
+</record>
+<record>
+  <date>2013-09-22T16:59:10</date>
+  <millis>1379869150709</millis>
+  <sequence>102</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>35</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>0</param>
+</record>
+<record>
+  <date>2013-09-22T16:59:11</date>
+  <millis>1379869151099</millis>
+  <sequence>110</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>35</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>390</param>
+</record>
+<record>
+  <date>2013-09-22T16:59:21</date>
+  <millis>1379869161707</millis>
+  <sequence>111</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>35</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>10608</param>
+</record>
+<record>
+  <date>2013-09-22T16:59:21</date>
+  <millis>1379869161709</millis>
+  <sequence>113</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>35</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>1</param>
+</record>
+<record>
+  <date>2013-09-22T16:59:21</date>
+  <millis>1379869161734</millis>
+  <sequence>117</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>21</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.sebastiandemel.c5site">
+    <module_version install_time="1379869088513" last="true" origin="installer" specification_version="1.0">
+        <file crc="2722555613" name="config/Modules/org-sebastiandemel-c5site.xml"/>
+        <file crc="3441254949" name="modules/org-sebastiandemel-c5site.jar"/>
+    </module_version>
+</module>
